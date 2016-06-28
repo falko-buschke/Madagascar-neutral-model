@@ -14,7 +14,7 @@
 
 This archive contains the data and R scripts used for the following study:
 	
-* Buschke, F.T., Brendonck, L. & Vanschoenwinkel (unpublished). Neutral theory can account for the missing mid-domain effect in Madagascan birds. 
+* Buschke, F.T., Brendonck, L. & Vanschoenwinkel (unpublished). Adding energy gradients and long-distance dispersal to a neutral model improves predictions of Madagascan bird diversity.. 
 
 A written description of the research methodology can be obtained from the manuscript. Any comments or inquiries can be directed to the lead author, Falko Buschke (`falko.buschke@gmail.com`).
 
